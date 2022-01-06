@@ -1,0 +1,2 @@
+C:\Users\Артемий\source\repos\SnakeGame\Debug\SnakeGame.exe
+C:\Users\Артемий\source\repos\SnakeGame\Debug\SnakeGame.pdb
